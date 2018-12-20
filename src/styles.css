@@ -1,0 +1,5 @@
+#box {
+  position: absolute;
+  transition-property: transform;
+  transition-duration: 0.5s;
+}
